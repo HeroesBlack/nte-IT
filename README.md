@@ -10,12 +10,6 @@ Traduzione italiana per Neverness to Everness.
 4. Clicca `INSTALLA TRADUZIONE` per installare/aggiornare la patch italiana.
 5. Clicca `GIOCA` per avviare il gioco.
 
-## Aggiornamento launcher
-
-1. Nel launcher clicca `⟳ VERIFICA AGGIORNAMENTI`.
-2. Se disponibile una nuova versione, il launcher scarica e installa automaticamente il setup.
-3. A fine update, riavvia il launcher quando richiesto.
-
 ## Note
 
 - La traduzione italiana e distribuita tramite questo repository.
