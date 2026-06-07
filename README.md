@@ -12,6 +12,7 @@ Traduzione italiana per Neverness to Everness.
 
 ## Note
 
+- Se Windows mostra "Autore sconosciuto", clicca `Ulteriori informazioni` > `Esegui comunque`.
 - La traduzione italiana e distribuita tramite questo repository.
 - Le impostazioni del launcher e lo stato della traduzione vengono salvati automaticamente.
 - Per la traduzione italiana usa **sempre** questo launcher.
